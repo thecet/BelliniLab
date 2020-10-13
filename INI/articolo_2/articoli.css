@@ -5,30 +5,12 @@ articolo {
     font-weight:bolder; 
     text-align:center; 
     font-size:30px; 
-    background-color: green; 
-    color: white; 
+    background-color: lightgray; 
+    color: black; 
 }
 
-name, author, year, price { 
-    display:block; 
-    text-align:center; 
+titolo{
+    size: 120%;
+    color: blueviolet
 } 
 
-name { 
-color:green;  
-text-decoration: underline  ; 
-font-weight:bolder; 
-font-size:20px; 
-} 
-
-author { 
-color:green
-}
-
-year { 
-color:brown 
-}
-
-price { 
-color:blue
-}
