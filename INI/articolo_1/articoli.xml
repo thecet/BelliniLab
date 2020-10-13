@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <articoli>
-    <articolo category="children">
-       <title>Harry Potter</title>
-       <author>J K. Rowling</author>
-       <year>2005</year>
-       <price>29.99</price>
+    <articolo category="mondo">
+       <title>Machu Picchu riapre per un solo turista</title>
+        <description> Machu Picchu riapre per un solo turista: è un giapponese che ha atteso 7 mesi la fine del lockdown </description>
     </articolo>
     <articolo category="web">
-        <title>Learning XML</title>
-        <author>Erik T. Ray</author>
-        <year>2003</year>
-        <price>39.95</price>
+        <title>iPhone 12</title>
+        <description>È dato per certo l’annuncio di 4 smartphone, tutti 5G. Ci sarà anche il debutto del Mini, con dimensioni più compatte. Sul fronte audio ipotesi smart speaker HomePod Mini</description>
     </articolo>
 </articoli>
